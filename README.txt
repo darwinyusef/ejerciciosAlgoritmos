@@ -2,9 +2,9 @@
 
 Ejercicios de algoritmia a alcanzar por niveles 
 
-🟢 Freshman (Nivel Básico - Aprendiendo Fundamentos)
-💡 Búsqueda Lineal
-💡 Búsqueda Binaria
+Freshman (Nivel Básico - Aprendiendo Fundamentos)
+🆗 💡 Búsqueda Lineal
+🆗 💡 Búsqueda Binaria
 💡 Ordenamiento por Burbuja
 💡 Ordenamiento por Inserción
 💡 Ordenamiento por Selección
