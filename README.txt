@@ -3,6 +3,7 @@
 Ejercicios de algoritmia a alcanzar por niveles 
 
 Freshman (Nivel Básico - Aprendiendo Fundamentos)
+🆗 💡 Lógica Computacional
 🆗 💡 Búsqueda Lineal
 🆗 💡 Búsqueda Binaria
 💡 Ordenamiento por Burbuja
